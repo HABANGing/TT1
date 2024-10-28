@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="20035" appversion="7.0.12">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:16" heading="0" comment="" source="" description="" nodeid="node1" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:20" heading="0" comment="" source="" description="" nodeid="node2" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:24" heading="0" comment="" source="" description="" nodeid="node3" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:29" heading="0" comment="" source="" description="" nodeid="node4" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:32" heading="0" comment="" source="" description="" nodeid="node5" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:36" heading="0" comment="" source="" description="" nodeid="node6" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:40" heading="0" comment="" source="" description="" nodeid="node7" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:43" heading="0" comment="" source="" description="" nodeid="node8" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:47" heading="0" comment="" source="" description="" nodeid="node9" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:51" heading="0" comment="" source="" description="" nodeid="node10" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:55" heading="0" comment="" source="" description="" nodeid="node11" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:00:59" heading="0" comment="" source="" description="" nodeid="node12" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:01:03" heading="0" comment="" source="" description="" nodeid="node13" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:01:06" heading="0" comment="" source="" description="" nodeid="node14" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:01:10" heading="0" comment="" source="" description="" nodeid="node15" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:01:15" heading="0" comment="" source="" description="" nodeid="node16" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelingpitch="0" width="2000" levelingroll="0" levelbiashidpi="1.000" height="2000" leveltilesize="510">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata author="" datetime="2024:09:28 15:01:19" heading="0" comment="" source="" description="" nodeid="node17" info="" title="" altitude="42.81" copyright="" tags="9월28일(10시) 힐스테이트달성공원역101동304호-(84E타입)" longitude="128.971647" latitude="35.082939" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
+      <label textalpha="1" enabled="1" bordercolor="0x000000" width="180" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20" backgroundalpha="1" border="1" borderradius="1" borderalpha="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" blendtime="1" enabled="1" zoomafterinfov="140" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomout="0" delay="none" zoomoutpause="1" zoomfov="40" type="crossdissolve" softedge="0"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" lockedmouse="0" sensitivity="8" rubberband="0" contextvr="1" invertwheel="0" contextfullscreen="1" hideabout="0" zoomcentercursor="1" speedwheel="1" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" comment="" copyright="" tags="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
